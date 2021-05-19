@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Finding Pi With Random Numbers", "Finding Pi With Random Numbers\Finding Pi With Random Numbers.csproj", "{687E866C-9660-433C-9E5A-AB9B50D795ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{687E866C-9660-433C-9E5A-AB9B50D795ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{687E866C-9660-433C-9E5A-AB9B50D795ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{687E866C-9660-433C-9E5A-AB9B50D795ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{687E866C-9660-433C-9E5A-AB9B50D795ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {65C4EAAD-671B-4601-95AB-25C802A47D9C}
+	EndGlobalSection
+EndGlobal
